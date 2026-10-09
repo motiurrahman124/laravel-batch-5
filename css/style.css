@@ -1,0 +1,12 @@
+.paragraph{
+    color: white;
+    background-color: blue;
+    width: 400px;
+    border: 2px solid lime;
+    border-radius: 16px;
+    /* padding: 12px 24px 30px 5px; */
+    padding: 12px 24px 12px;
+    margin-top: 50px;
+    text-decoration: line-through;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
